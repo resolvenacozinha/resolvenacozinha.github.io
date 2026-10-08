@@ -1,0 +1,153 @@
+{
+  "perfil": {
+    "nome": "Resolve na Cozinha",
+    "bio": "Achados de cozinha que resolvem de verdade. Testo, mostro, você decide.",
+    "aviso": "Cozinha boa é a que resolve: menos louça, menos drama e mais tempo pra comer. 🍳",
+    "instagram": "https://www.instagram.com/resolvenacozinha/",
+    "tiktok": "https://www.tiktok.com/@resolvenacozinha",
+    "youtube": "https://www.youtube.com/@Resolvenacozinha"
+  },
+  "produtos": [
+    {
+      "id": "01",
+      "nome": "Cortador 16 em 1 para legumes",
+      "preco": "R$ 49,86",
+      "loja": "Mercado Livre",
+      "imagem": "img/produto-01.jpg",
+      "links": {
+        "tt": "https://meli.la/1dDnxhG",
+        "ig": "https://meli.la/1dDnxhG",
+        "yt": "https://meli.la/1dDnxhG"
+      },
+      "fallback": "https://www.mercadolivre.com.br/p/MLB62321972",
+      "destaque": true,
+      "ativo": true
+    },
+    {
+      "id": "02",
+      "nome": "Lixeira suspensa 9 L para porta de armário",
+      "preco": "R$ 34,90",
+      "loja": "Mercado Livre",
+      "imagem": "img/produto-02.jpg",
+      "links": {
+        "tt": "https://meli.la/2m4yQKt",
+        "ig": "https://meli.la/2m4yQKt",
+        "yt": "https://meli.la/2m4yQKt"
+      },
+      "fallback": "https://www.mercadolivre.com.br/p/MLB61381712",
+      "ativo": true
+    },
+    {
+      "id": "03",
+      "nome": "Kit potes de tempero com etiquetas e caneta",
+      "preco": "a partir de R$ 16,88",
+      "loja": "Shopee",
+      "imagem": "img/produto-03.jpg",
+      "links": {
+        "tt": "",
+        "ig": "",
+        "yt": ""
+      },
+      "fallback": "https://shopee.com.br/product/393270715/17892385696",
+      "ativo": false
+    },
+    {
+      "id": "04",
+      "nome": "Potes de vidro herméticos (kits de 2 a 10)",
+      "preco": "a partir de R$ 27,59",
+      "loja": "Shopee",
+      "imagem": "img/produto-04.jpg",
+      "links": {
+        "tt": "",
+        "ig": "",
+        "yt": ""
+      },
+      "fallback": "https://shopee.com.br/product/372753581/21299367155",
+      "ativo": false
+    },
+    {
+      "id": "05",
+      "nome": "Balança digital de cozinha 1 g a 10 kg",
+      "preco": "R$ 16,95",
+      "loja": "Shopee",
+      "imagem": "img/produto-05.jpg",
+      "links": {
+        "tt": "",
+        "ig": "",
+        "yt": ""
+      },
+      "fallback": "https://shopee.com.br/product/943206066/25391116750",
+      "ativo": false
+    },
+    {
+      "id": "06",
+      "nome": "Kit 4 formas de gelo com tampa e fundo de silicone",
+      "preco": "R$ 27,80",
+      "loja": "Mercado Livre",
+      "imagem": "img/produto-06.jpg",
+      "links": {
+        "tt": "https://meli.la/1ageYR4",
+        "ig": "https://meli.la/1ageYR4",
+        "yt": "https://meli.la/1ageYR4"
+      },
+      "fallback": "https://www.mercadolivre.com.br/p/MLB41302044",
+      "ativo": true
+    },
+    {
+      "id": "07",
+      "nome": "Kit 12 utensílios de silicone",
+      "preco": "a partir de R$ 28,99",
+      "loja": "Shopee",
+      "imagem": "img/produto-07.jpg",
+      "links": {
+        "tt": "",
+        "ig": "",
+        "yt": ""
+      },
+      "fallback": "https://shopee.com.br/product/526615488/23096726971",
+      "ativo": false
+    },
+    {
+      "id": "08",
+      "nome": "Bolsa térmica para marmita",
+      "preco": "a partir de R$ 8,89",
+      "loja": "Shopee",
+      "imagem": "img/produto-08.jpg",
+      "links": {
+        "tt": "",
+        "ig": "",
+        "yt": ""
+      },
+      "fallback": "https://shopee.com.br/product/1041517511/23597911235",
+      "ativo": false
+    },
+    {
+      "id": "09",
+      "nome": "Kit 15 potes de plástico com tampa",
+      "preco": "R$ 34,90",
+      "loja": "Shopee",
+      "imagem": "img/produto-09.jpg",
+      "links": {
+        "tt": "",
+        "ig": "",
+        "yt": ""
+      },
+      "fallback": "https://shopee.com.br/product/732131461/23798119171",
+      "ativo": false
+    },
+    {
+      "id": "10",
+      "nome": "Conjunto 6 facas inox com descascador e tesoura",
+      "preco": "R$ 17,99",
+      "loja": "Shopee",
+      "imagem": "img/produto-10.jpg",
+      "links": {
+        "tt": "",
+        "ig": "",
+        "yt": ""
+      },
+      "fallback": "https://shopee.com.br/product/343246764/22897722069",
+      "ativo": false
+    }
+  ]
+}

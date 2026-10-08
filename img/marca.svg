@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>Resolve na Cozinha — marca (avatar)</title>
+  <!-- fundo terracota -->
+  <circle cx="256" cy="256" r="256" fill="#E4572E"/>
+  <!-- vapor em forma de check: "resolvido" -->
+  <path d="M176 172 L236 232 L344 94" fill="none" stroke="#1F1A17" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- tampa: cúpula + aba -->
+  <path d="M150 316 C150 282 196 262 256 262 C316 262 362 282 362 316 Z" fill="#FFF3E6"/>
+  <rect x="128" y="306" width="256" height="24" rx="12" fill="#FFF3E6"/>
+  <!-- brilho da tampa -->
+  <path d="M198 292 Q228 276 264 274" fill="none" stroke="#E4572E" stroke-width="8" stroke-linecap="round" opacity=".6"/>
+  <!-- corpo da panela -->
+  <path d="M152 334 H360 V404 C360 436 334 452 302 452 H210 C178 452 152 436 152 404 Z" fill="#FFF3E6"/>
+  <!-- alças -->
+  <rect x="98" y="342" width="58" height="24" rx="12" fill="#FFF3E6"/>
+  <rect x="356" y="342" width="58" height="24" rx="12" fill="#FFF3E6"/>
+  <!-- sorriso discreto -->
+  <path d="M198 392 Q256 420 314 392" fill="none" stroke="#E4572E" stroke-width="14" stroke-linecap="round"/>
+</svg>
