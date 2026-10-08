@@ -18,8 +18,7 @@ Cada produto em `links.json` tem `"ativo": true|false`. Produto com `ativo: fals
 Em `links.json`, para cada produto, cole em `links.tt`, `links.ig` e `links.yt` o link gerado no portal do programa com o sub_id correspondente (`tt01`, `ig01`, `yt01` para o produto 01, e assim por diante). Mercado Livre: se o painel não oferecer sub_id, use o mesmo link nos três campos.
 
 ## Onde está no ar
-Repositório público `resolvenacozinha/resolvenacozinha-links` (GitHub Pages, raiz da branch main):
-`https://resolvenacozinha.github.io/resolvenacozinha-links/`. Publicar/atualizar: `python scripts/publicar_links.py` (ver docstring; `--set NN tt|ig|yt|ml URL` troca um link e publica). O clone de trabalho fica em `D:/Projects/resolvenacozinha-links` e usa só a credencial do `gh` (conta resolvenacozinha).
+Repositório público `resolvenacozinha/resolvenacozinha.github.io` (site raiz do usuário no GitHub Pages): **`https://resolvenacozinha.github.io/`**. Atalhos curtos para as bios (pastas com redirecionamento): `/ig`, `/yt`, `/tt`. Publicar/atualizar: `python scripts/publicar_links.py` (ver docstring; `--set NN tt|ig|yt|ml URL` troca um link e publica). O clone de trabalho fica em `D:/Projects/resolvenacozinha.github.io` e usa só a credencial do `gh` (conta resolvenacozinha). O repositório antigo `resolvenacozinha-links` continua existindo só para hospedar vídeos de teste em Releases (API do Instagram). Decisão de 08/10/2026: sem domínio pago e sem Cloudflare por enquanto; o Worker de rastreio em `apps/redirect-worker` fica pronto para quando quiser.
 
 ## Hospedar em outro lugar (alternativas)
 Opção A — **GitHub Pages:** crie um repositório público só com esta pasta (ou use a pasta `apps/links` como fonte do Pages) → Settings → Pages → Deploy from branch. URL do tipo `usuario.github.io/resolvenacozinha`.

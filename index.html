@@ -69,7 +69,7 @@
         ${x.destaque ? '<span class="tag">Mais pedido</span>' : ''}
         <h2>${x.nome}</h2>
         <div class="meta">${x.preco} · ${x.loja}</div>
-        <a class="btn" href="${href}" target="_blank" rel="noopener sponsored" data-id="${x.id}">Ver na ${x.loja}</a>
+        <a class="btn" href="${href}" target="_blank" rel="noopener sponsored" data-id="${x.id}">Ver ${x.loja === "Mercado Livre" ? "no" : "na"} ${x.loja}</a>
       </div></article>`;
   }).join('');
 })();
