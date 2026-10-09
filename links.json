@@ -58,12 +58,12 @@
       "loja": "Shopee",
       "imagem": "img/produto-04.jpg",
       "links": {
-        "tt": "",
-        "ig": "",
-        "yt": ""
+        "tt": "https://s.shopee.com.br/9fLWxoCDru",
+        "ig": "https://s.shopee.com.br/6fhvOIjiA9",
+        "yt": "https://s.shopee.com.br/9fLWxouDjD"
       },
       "fallback": "https://shopee.com.br/product/372753581/21299367155",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "05",
@@ -72,12 +72,12 @@
       "loja": "Shopee",
       "imagem": "img/produto-05.jpg",
       "links": {
-        "tt": "",
-        "ig": "",
-        "yt": ""
+        "tt": "https://s.shopee.com.br/9APGMwCz0w",
+        "ig": "https://s.shopee.com.br/1B1S6813c",
+        "yt": "https://s.shopee.com.br/4qGHCzBTfL"
       },
       "fallback": "https://shopee.com.br/product/943206066/25391116750",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "06",
@@ -100,12 +100,12 @@
       "loja": "Shopee",
       "imagem": "img/produto-07.jpg",
       "links": {
-        "tt": "",
-        "ig": "",
-        "yt": ""
+        "tt": "https://s.shopee.com.br/1B1SCNBwj",
+        "ig": "https://s.shopee.com.br/6q1LalJ2SB",
+        "yt": "https://s.shopee.com.br/4VdQoTnzNC"
       },
       "fallback": "https://shopee.com.br/product/526615488/23096726971",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "08",
@@ -114,12 +114,12 @@
       "loja": "Shopee",
       "imagem": "img/produto-08.jpg",
       "links": {
-        "tt": "",
-        "ig": "",
-        "yt": ""
+        "tt": "https://s.shopee.com.br/20w5pv9tgO",
+        "ig": "https://s.shopee.com.br/4B0aPuNViM",
+        "yt": "https://s.shopee.com.br/1BMyqOuzxN"
       },
       "fallback": "https://shopee.com.br/product/1041517511/23597911235",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "09",
@@ -128,12 +128,12 @@
       "loja": "Shopee",
       "imagem": "img/produto-09.jpg",
       "links": {
-        "tt": "",
-        "ig": "",
-        "yt": ""
+        "tt": "https://s.shopee.com.br/8Kq9NbOVXW",
+        "ig": "https://s.shopee.com.br/5LCXo5vrHs",
+        "yt": "https://s.shopee.com.br/8pmPyX4X47"
       },
       "fallback": "https://shopee.com.br/product/732131461/23798119171",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "10",
@@ -142,12 +142,12 @@
       "loja": "Shopee",
       "imagem": "img/produto-10.jpg",
       "links": {
-        "tt": "",
-        "ig": "",
-        "yt": ""
+        "tt": "https://s.shopee.com.br/60SEbM5qfg",
+        "ig": "https://s.shopee.com.br/8fSzmGHhBk",
+        "yt": "https://s.shopee.com.br/9zyNMiYTu1"
       },
       "fallback": "https://shopee.com.br/product/343246764/22897722069",
-      "ativo": false
+      "ativo": true
     }
   ]
 }
