@@ -44,12 +44,12 @@
       "loja": "Shopee",
       "imagem": "img/produto-03.jpg",
       "links": {
-        "tt": "",
-        "ig": "",
-        "yt": ""
+        "tt": "https://s.shopee.com.br/LnrqU80G4",
+        "ig": "https://s.shopee.com.br/3LRTQ1Zde3",
+        "yt": "https://s.shopee.com.br/905qARVfGV"
       },
       "fallback": "https://shopee.com.br/product/393270715/17892385696",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "04",
